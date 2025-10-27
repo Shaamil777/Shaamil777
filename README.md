@@ -1,6 +1,8 @@
 <h2>Hi there 👋, I'm Muhammad Shamil</h2>
 MERN stack developer passionate about creating scalable web apps, SaaS platforms, and smart solutions for tomorrow’s web.
 
+----------------------------------------------------------------------------------------------------------
+
 🚀 About Me
 🧑‍💻 I build modern web apps, SaaS products, and interactive UIs using the latest MERN stack technologies.
 
