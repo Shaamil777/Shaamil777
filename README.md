@@ -1,5 +1,5 @@
 Hi there 👋, I'm Muhammad Shamil
-![Banner](https://img.shields.io/badge/MERN%20Stack%20Developer-4d7fff?style=for-the-badge&logo=react&logoColor=whiteN stack developer passionate about creating scalable web apps, SaaS platforms, and smart solutions for tomorrow’s web.
+MERN stack developer passionate about creating scalable web apps, SaaS platforms, and smart solutions for tomorrow’s web.
 
 🚀 About Me
 🧑‍💻 I build modern web apps, SaaS products, and interactive UIs using the latest MERN stack technologies.
