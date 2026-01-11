@@ -40,17 +40,12 @@ Replace these with your real links.
 ### 🧾 QR-Based Marketing & Analytics System  
 A SaaS that tracks QR scans by location, device, and campaign.  
 **Stack:** React, Node.js, MongoDB  
-🔗 Live:  
-🔗 Code:  
 
 ### 🏨 Hotel Booking & Channel Manager Integration  
 A production-ready booking system synced with OTA platforms (STA​​AH / AxisRooms).  
 **Stack:** React, Node.js, REST APIs  
-🔗 Live:  
-🔗 Code:  
+🔗 Live:  https://amrithaheritage.com/  
 
 ### 🛒 Furniture E-commerce Platform  
 Modern UI, WhatsApp checkout flow, admin dashboard.  
 **Stack:** MERN, Tailwind  
-🔗 Live:  
-🔗 Code:  
