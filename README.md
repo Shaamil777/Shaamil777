@@ -32,10 +32,6 @@ I don’t just write code — I ship products.
 
 ## 📌 Featured Projects
 
-> This section matters more than everything above it.
-
-Replace these with your real links.
-
 ```md
 ### 🧾 QR-Based Marketing & Analytics System  
 A SaaS that tracks QR scans by location, device, and campaign.  
