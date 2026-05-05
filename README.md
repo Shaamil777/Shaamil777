@@ -17,7 +17,7 @@ I build scalable web applications with a strong focus on backend architecture, s
 ## Core Focus
 
 - Backend architecture (auth, RBAC, APIs, integrations)
-- SaaS platforms and booking systems
+- SaaS platforms and automation systems
 - Database design and performance optimization
 - Deployment and infrastructure (AWS, Docker, NGINX)
 
@@ -44,6 +44,7 @@ I build scalable web applications with a strong focus on backend architecture, s
 **Databases**
 - MongoDB
 - PostgreSQL
+- Vector DB (for RAG systems)
 
 **Infrastructure & DevOps**
 - AWS (EC2, S3)
@@ -54,37 +55,36 @@ I build scalable web applications with a strong focus on backend architecture, s
 
 **Other Experience**
 - n8n (workflow automation)
-- RAG-based systems (AI integrations)
+- RAG-based systems (LLM integration, embeddings)
 
 ---
 
 ## Projects
 
-### QR-Based Marketing & Analytics System
-SaaS platform for tracking QR campaigns with analytics including scan location, device type, and campaign performance.
+### DevLoom — Developer Blogging Platform
+Full-stack blogging platform with authentication, content management, and responsive UI built using modern frontend architecture.
 
-**Tech:** React · Node.js · MongoDB  
-
----
-
-### Hotel Booking & Channel Manager
-Booking system integrated with OTA platforms (STAAH / AxisRooms), handling real-time inventory sync and reservation management.
-
-**Tech:** React · Node.js · REST APIs  
-**Live:** https://amrithaheritage.com/
+**Tech:** Next.js · TypeScript · MongoDB  
 
 ---
 
-### Furniture E-Commerce Platform
-E-commerce platform with admin dashboard and WhatsApp-based checkout tailored for local business workflows.
+### AutoNexis — Workflow Automation System
+Automation platform built using n8n for handling workflows, integrations, and background task orchestration.
 
-**Tech:** React · Node.js · MongoDB · Tailwind CSS  
+**Tech:** n8n · Node.js · APIs  
+
+---
+
+### AI Doc Chat — RAG-Based Document Assistant
+AI-powered document chat system using embeddings and retrieval-augmented generation for contextual responses.
+
+**Tech:** Node.js · Vector DB · Gemini API  
 
 ---
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shaamil777&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shaamil777&show_icons=true&hide_border=true&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaamil777&layout=compact&hide_border=true)
 
 ---
