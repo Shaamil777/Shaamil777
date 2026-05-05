@@ -84,9 +84,9 @@ AI-powered document chat system using embeddings and retrieval-augmented generat
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaamil777&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shaamil777&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaamil777&layout=compact&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shaamil777&layout=compact)
 
 ---
 
