@@ -10,7 +10,7 @@ I build scalable web applications with a strong focus on backend architecture, s
 
 - Portfolio: https://muhammadshamil.vercel.app  
 - GitHub: https://github.com/Shaamil777  
-- Email: shamilm2324@gmail.com  
+- Email: works.shamil@gmail.com / shamilm2324@gmail.com  
 
 ---
 
